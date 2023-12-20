@@ -33,13 +33,21 @@ This project is built using HTML and CSS to create an immersive and informative 
 
 ## Project Structure
 -css/: Contains stylesheets for styling the HTML pages.
+
 -images/: Holds images used in the project.
+
 -index.html: The main landing page of the website.
+
 -logo.svg: The logo of the space exploration project.
+
 -crew/: Directory containing HTML pages for each crew member.
+
 -destination/: Directory containing HTML pages for each space destination.
+
 -technology/: Directory containing HTML pages for different space technologies.
+
 -Feel free to explore the project and contribute to its development!
 
-License
+## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
